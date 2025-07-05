@@ -1,0 +1,338 @@
+# Recursion Problem Solving Checklist
+
+This is a curated list of recursion problems with a checklist to track your progress. You can add your solutions in C++, Golang, and Java for each problem.
+
+---
+# Problems
+
+## Easy
+- [ ] [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- Write a recursive function for given n and a to determine x:
+```java
+      n = a ^ x 
+      a = 2, 3, 4
+      (2 ^ -31) <= n <= (2 ^ 31) - 1      
+```
+- [ ] [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+
+## Medium
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+
+## Hard
+- [ ] [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+- [ ] [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+  - [ ] C++  
+  - [ ] Go  
+  - [ ] Java  
+
+---
+
+*Happy coding!*
